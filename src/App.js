@@ -3,7 +3,7 @@ export default class App extends Component{
   render(){
     return(
       <div style={{color:'#ccc'}}>
-        王雯你要好好加油啊！
+        四国是什么地方？
       </div>
     )
   }
