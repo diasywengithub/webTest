@@ -4,6 +4,7 @@ export default class App extends Component{
     return(
       <div style={{color:'#ccc'}}>
         四国是什么地方？
+        四个国家吗？
       </div>
     )
   }
